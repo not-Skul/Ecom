@@ -82,5 +82,18 @@ export const products = [
     image: "/media/Cola_gummies.jpg", 
     category: "Edibles", 
     discount: 2
+},
+{
+  "id": "andyou-focus-gummies",
+  "name": "Andyou Focus CBD Gummies - Kiwi Flavoured",
+  "price": 299, 
+  "description": "Sharpen your focus with Andyou Focus CBD Gummies. Enjoy the refreshing taste of kiwi in each gummy, while benefiting from 20mg of terpene-rich CBD. This pack contains 10 delicious gummies, perfect for enhancing concentration and clarity. Crafted with quality and safety in mind, these gummies have been tested by an independent third-party laboratory and contain 0% THC. (Disclaimer: Product not approved by Ministry of Ayush, FSSAI, or FDA and is not intended to diagnose, treat, or prevent any disease.)",
+  "image": "/media/focus_and_you.jpg", 
+  "category": "Edibles", 
+  "discount": 5,
+  "additional_info": {
+      "customer_care": "+91 9818450551",
+      "email": "support@andyou.in"
+  }
 }
 ];
