@@ -95,5 +95,24 @@ export const products = [
       "customer_care": "+91 9818450551",
       "email": "support@andyou.in"
   }
+},
+{
+    "id": "cannazo-vijaya-capsules",
+    "name": "Cannazo India Vijaya Leaf Extract Full Spectrum Capsules",
+    "price": 459, 
+    "originalPrice": null, 
+    "description": "Experience the full potential of Vijaya Leaf Extract with Cannazo India's Full Spectrum Capsules. Each capsule contains 150mg of potent extract, with a total potency of 1500mg per bottle (10 capsules). This Vijaya supplement is designed for medium potency and provides a convenient way to incorporate the benefits of full-spectrum extract into your daily routine. (Disclaimer: Please consult with a healthcare professional before use. This product is not intended to diagnose, treat, or prevent any disease.)",
+    "image": "/media/Full-Spectrum-Capsules.jpg", 
+    "category": "Supplements", 
+    "discount": 10
+},
+{
+  "id": "magiccann-full-spectrum-extract",
+  "name": "Magiccann Full Spectrum Cannabis Leaf Extract - 10 Grams",
+  "price": 399,
+  "description": "Experience the potent benefits of Magiccann Full Spectrum Cannabis Leaf Extract. This 10-gram syringe contains a high concentration of full-spectrum extract, offering an 'Extra Strong' potency. Crafted with care and quality, this product is designed for those seeking a powerful cannabis leaf extract. (Disclaimer: Consult with a healthcare professional before use. This product is not intended to diagnose, treat, or prevent any disease.)", 
+  "image": "/media/leaf-extract.jpg",
+  "category": "Extracts",
+  "discount": 20
 }
 ];

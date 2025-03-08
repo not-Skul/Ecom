@@ -7,6 +7,8 @@ import { AgeVerification } from './components/AgeVerification';
 import { Home } from './pages/Home';
 import { ProductDetail } from './pages/ProductDetail';
 import { Cart } from './pages/Cart';
+import Authpage from './pages/authPage';
+import Profile from './components/profile';
 
 function App() {
   return (
@@ -20,6 +22,8 @@ function App() {
               <Route path="/" element={<Home />} />
               <Route path="/product/:id" element={<ProductDetail />} />
               <Route path="/cart" element={<Cart />} />
+              <Route path='/login' element={<Authpage/>}/>
+              <Route path='/account' element={<Profile/>}/>
             </Routes>
           </main>
           <Footer />
